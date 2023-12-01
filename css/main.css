@@ -59,8 +59,7 @@ a:hover {
 
 .logo {
   font-size: 2rem;
-  color: var(--bg-dark-orchid);
-  margin-left: 1rem;
+  color: var(--bg-dark-orchid)
 }
 
 .logo:hover, .section__pic-container:hover {
@@ -225,12 +224,6 @@ section {
   gap: 1rem;
 }
 
-.portfolio-pic {
-  border-radius: 5%;
-  padding-left: 1rem;
-  width: max-content;
-}
-
 /* ICONS */
 
 .icon {
@@ -316,9 +309,6 @@ section#about {
   flex-wrap: wrap;
 }
 
-.about-pic {
-  border-radius: 2rem;
-}
 
 
 .details-container {
